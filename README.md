@@ -1,4 +1,4 @@
-# albion-overlay ![Status](https://img.shields.io/badge/status-%20active-brightgreen?style=flat&labelColor=gray) ![Version](https://img.shields.io/badge/beta-1.0.0-pink?style=flat&labelColor=salad)
+# albion-overlay ![Status](https://img.shields.io/badge/status-%20active-brightgreen?style=flat&labelColor=gray) ![Version](https://img.shields.io/badge/beta-0.1.0-pink?style=flat&labelColor=salad)
 An overlay program that will help you monitor cooldown of your friends abilities.
 ## :rocket: Project description. How it works?
 
@@ -32,4 +32,8 @@ Yes, the software is to some extent spyware, as it processes what happens on you
 The data is protected and is not used in any way on the server side. Also, scanning can be disabled by pressing the key combination 
 
 **Ctrl+Shift+B** if you need to pause Overlay
+
+## 🕵️‍♂️ 🛠️ Access to the Closed beta
+Write applications to me in DM
+Discord: an1medevka
 
